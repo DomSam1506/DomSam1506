@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Welcome to my GitHub profile! My name is Dominion Samuel, and I am an aspiring data scientist. My interests are mostly data exploration and discovering hidden insights within messy data. I am currently working on my Python data analysis and data visualization skills. Feel free to visit any of my projects or contact me!
 <!--
 **DomSam1506/DomSam1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
